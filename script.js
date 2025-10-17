@@ -78,9 +78,3 @@ revealElements.forEach(element => {
 window.addEventListener('scroll', revealOnScroll);
 // Initial check for elements in view
 revealOnScroll(); 
-
-
-
-// GIT TUTORIAL
-
-console.log('version 3')
